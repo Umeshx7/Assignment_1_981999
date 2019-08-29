@@ -18,3 +18,7 @@ nav li {
   max-width: none;
   background: none; 
 }
+
+.center{
+  text-align: center;
+}
