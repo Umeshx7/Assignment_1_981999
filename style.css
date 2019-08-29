@@ -1,5 +1,9 @@
 body {
     background-color: rgb(46, 46, 46);
+    margin: auto;
+    width: 50%;
+    border: 3px
+    padding: 10px;
 }
 
 nav li {
