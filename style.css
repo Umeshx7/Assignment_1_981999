@@ -8,11 +8,15 @@ body {
 }
 
 nav li {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: x-large;
+  text-decoration: none;
   text-align: center;
   display: inline;
   padding: 10px;
   margin: 10px;
   border: 8px
+
 }
 
 #gmap_canvas img {
