@@ -7,16 +7,24 @@ body {
     padding: 10px;
 }
 
-nav li {
+nav li{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: x-large;
-  text-decoration: none;
   text-align: center;
   display: inline;
   padding: 10px;
   margin: 10px;
   border: 8px
+}
 
+nav li a{
+  color: gainsboro;
+  text-decoration: none;
+}
+
+nav li a:hover{
+  color:#20CE88;
+  text-decoration: none;
 }
 
 #gmap_canvas img {
