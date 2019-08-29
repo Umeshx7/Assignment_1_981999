@@ -9,3 +9,8 @@ nav li {
   margin: 10px;
   border: 8px
 }
+
+#gmap_canvas img {
+  max-width: none;
+  background: none; 
+}
