@@ -13,8 +13,11 @@ nav li{
   text-align: center;
   display: inline;
   padding: 10px;
-  margin: 10px;
   border: 8px
+}
+
+nav{
+  margin-bottom:70px;
 }
 
 nav li a{
@@ -64,4 +67,7 @@ h1{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color:white;
   text-align:center;
+  margin-top:10px;
+  margin-bottom:70px;
+  font-size:40px;
 }
