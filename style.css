@@ -48,6 +48,8 @@ img {
 .container {
   width: 100%;
 text-align:left;
+margin-left:50px;
+margin-top:30px;
 }
 
 input[type=text], select, textarea {
@@ -74,7 +76,7 @@ h1{
 }
 
 th{
-  width:50%;
+
   vertical-align: top;
 }
 
@@ -98,4 +100,8 @@ p{
   margin-bottom: 4px;
   margin-right: 0px;
   margin-left: 0px;
+}
+
+table{
+  margin-bottom:50px;
 }
