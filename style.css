@@ -114,6 +114,13 @@ table{
   padding:10px;
 }
 
+.img-square{
+  height:195px;
+  width:195px;
+  padding:10px;
+}
+
+
 span{
   display:inline-block;
 }
