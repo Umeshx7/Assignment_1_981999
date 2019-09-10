@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(46, 46, 46);
+    background-color: rgb(20, 20, 20);
     margin: auto;
     width: 50%;
     border: 3px
@@ -43,7 +43,7 @@ img {
 }
 
 .container {
- align-content: right;
+
 }
 
 input[type=text], select, textarea {
@@ -58,4 +58,10 @@ input[type=text], select, textarea {
 
 textarea {
   height:200px;
+}
+
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:white;
+  text-align:center;
 }
