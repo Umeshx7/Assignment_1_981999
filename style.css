@@ -46,7 +46,8 @@ img {
 }
 
 .container {
-
+  width: 100%;
+text-align:left;
 }
 
 input[type=text], select, textarea {
@@ -55,7 +56,7 @@ input[type=text], select, textarea {
     border: 0px solid rgba(83, 57, 19, 1);
     color: #FFFFFF;
     margin: 0 0 5px;
-    width: 50%;
+    width: 100%;
     padding:7px;
 }
 
@@ -74,4 +75,27 @@ h1{
 
 th{
   width:50%;
+  vertical-align: top;
+}
+
+.font-8{
+  color:white;
+  font-size:13px;
+}
+
+h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:white;
+  font-size:35px;
+}
+
+.myinfo{
+  text-align: right;
+}
+
+p{
+  margin-top: 0px;
+  margin-bottom: 4px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
