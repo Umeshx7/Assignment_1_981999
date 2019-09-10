@@ -71,3 +71,7 @@ h1{
   margin-bottom:70px;
   font-size:40px;
 }
+
+th{
+  width:50%;
+}
