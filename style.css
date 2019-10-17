@@ -154,6 +154,11 @@ iframe{
   margin-bottom:50px;
 }
 
+.centerframe{
+  width:900px;
+  height:550px;
+}
+
 .smallvid{
   padding:30px;
 }
