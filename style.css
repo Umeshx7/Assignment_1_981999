@@ -154,9 +154,9 @@ iframe{
   margin-bottom:50px;
 }
 
-.centerframe{
-  width:900px;
-  height:550px;
+iframe .centerframe{
+  width:1360px;
+  height:768px;
   border: 0px;
 }
 
