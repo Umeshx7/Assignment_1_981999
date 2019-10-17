@@ -157,6 +157,7 @@ iframe{
 .centerframe{
   width:900px;
   height:550px;
+  border: 0px;
 }
 
 .smallvid{
